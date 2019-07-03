@@ -1,0 +1,27 @@
+#headerDiv{
+    background-color: red;
+    text-align: center;
+    color: cornsilk;
+    margin: 5px;
+    padding: 2rem;
+}
+
+.btn-outline-secondary {
+    background-color: gray;
+    color: beige;
+}
+.item-width{
+    width: 96%;
+}
+#itemDiv{
+    width: 100%;
+}
+/* Add a "checked" mark when clicked on */
+.strikethrough {
+    text-decoration: line-through;
+    color: white;
+}
+
+.strikeRow {
+    background-color: gray !important;
+}
